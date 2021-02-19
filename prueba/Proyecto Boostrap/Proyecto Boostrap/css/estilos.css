@@ -1,0 +1,25 @@
+
+.carousel{
+    width: 80%;
+    margin-left: 10%;
+}
+.container{
+    background-color: burlywood;
+}
+h2{
+    background-color: cadetblue;
+    font-weight: bold;
+    font-family: game;
+    color:darkgreen;
+}
+h5{
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face
+     {
+         font-family:game;
+         src: url(../fonts/game.ttf);
+         /* src: url(../fonts/Gameplay.ttf); */
+         /* src: url(../fonts/over.ttf); */
+     }
